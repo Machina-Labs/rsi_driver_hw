@@ -30,6 +30,14 @@ Thankfully, I've dredged up some documentation that should help you out. I squir
 
 Some of these documents have source code that comes with them. Don't get too excited, none of it solves your problem. Still, it might be useful. I put some select parts of it in the `examples/` folder.
 
+## Submission
+In order to submit the assignment, do the following:
+
+1. Fork the GitHub repository (create an account if you don't have one)
+
+2. Develop / Add your solution to the repository and push it to Github.
+
+3. Send us the link to your forked repository.
 
 ## Too Easy?
 
