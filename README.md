@@ -33,11 +33,17 @@ Some of these documents have source code that comes with them. Don't get too exc
 ## Submission
 In order to submit the assignment, do the following:
 
-1. Fork the GitHub repository (create an account if you don't have one)
+1. Navigate to GitHub's project import page: [https://github.com/new/import](https://github.com/new/import)
 
-2. Develop / Add your solution to the repository and push it to Github.
+2. In the box titled "Your old repository's clone URL", paste the homework repository's link: [https://github.com/Machina-Labs/path_analysis_hw](https://github.com/Machina-Labs/path_analysis_hw)
 
-3. Send us the link to your forked repository.
+3. In the box titled "Repository Name", add a name for your local homework (ex. `path_analysis_soln`)
+
+4. Set privacy level to "Public", then click "Begin Import" button at bottom of the page.
+
+5. Develop your homework solution in the cloned repository and push it to Github when you're done. Extra points for good Git hygiene.
+
+6. Send us the link to your repository.
 
 ## Too Easy?
 
